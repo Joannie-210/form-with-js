@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, skyblue, rgb(0, 119, 255));
+}
+h1 {
+    margin: 200px auto;
+    font-size: 5rem;
+    font-family: poppins;
+}
